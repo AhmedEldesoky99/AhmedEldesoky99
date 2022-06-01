@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" height="50px">, I'm Ahmed Eldesoky</h1>
-[![](https://visitcount.itsvg.in/api?id=AhmedEldesoky99&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3>A passionate Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
          
 ---
-
+[![](https://visitcount.itsvg.in/api?id=AhmedEldesoky99&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
