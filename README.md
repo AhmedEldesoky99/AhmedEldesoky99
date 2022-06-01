@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Ahmed Eldesoky</h1>
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px" hieght="100px">, I'm Ahmed Eldesoky</h1>
 
 <h3>A passionate Front End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
