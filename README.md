@@ -11,7 +11,13 @@
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedeldesoky99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedeldesoky99" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 - 📫 How to reach me: **ahmedeldesoky1112@gmail.com**
 - 📫 My Portfolio: **https://ahmed-eldesoky.vercel.app/**
  
